@@ -1,4 +1,11 @@
-### Hi there 👋
+#### Hi there, I am Ashwini Seshadri 👋
+
+- I am a self-taught programmer with a background in neuropsychology and research!
+- I started to code (stimulus design, data cleaning and analysis) as a researcher in cognitive-neuropsychology and developed interest in software and web development. 
+
+
+
+
 
 <!--
 **ashwini-seshadri/ashwini-seshadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
