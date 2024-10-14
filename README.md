@@ -1,6 +1,5 @@
 #### Hi there, I am Ashwini Seshadri 👋
 
-- I am currently working as software developer with incredibly awesome researchers, designers and creative people at [Climate Media Factory](https://www.climatemediafactory.de/), primarily contributing to [Localised](https://www.localised-project.eu/) project!
 - I am a self-taught programmer with a background in neuropsychology and academic research!
 - I started to code as an academic researcher (cognitive-neuropsychology) and developed interest in software development.
 - I can work with Javascript frameworks, Ruby on Rails, and Python!
