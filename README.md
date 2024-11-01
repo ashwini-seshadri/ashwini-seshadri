@@ -1,6 +1,6 @@
 #### Hi there, I am Ashwini Seshadri 👋
 
-- I am a self-taught programmer with a background in neuropsychology and academic research!
+- I am a software developer with a background in neuropsychology and academic research!
 - I started to code as an academic researcher (cognitive-neuropsychology) and developed interest in software development.
 - I can work with Javascript frameworks, Ruby on Rails, and Python!
 - Additionally, I'm also learning new things through participating in open-source projects like [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork), [Terrastories](https://github.com/Terrastories/terrastories) and [Human-Essentials](https://github.com/rubyforgood/human-essentials).
