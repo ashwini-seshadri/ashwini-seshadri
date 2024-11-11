@@ -1,4 +1,4 @@
-#### Hi there, I am Ashwini Seshadri 👋
+#### Hi there, I am [Ashwini Seshadri](https://ashwini-seshadri.github.io/) 👋
 
 - I am a software developer with a background in neuropsychology and academic research!
 - I started to code as an academic researcher (cognitive-neuropsychology) and developed interest in software development.
