@@ -3,6 +3,7 @@
 - I am a software developer with a background in neuropsychology and academic research!
 - I started to code as an academic researcher (cognitive-neuropsychology) and developed interest in software development.
 - I can work with Javascript frameworks, Ruby on Rails, and Python!
+- I am currently working at [These Guys](https://these-guys.com/) as Software Developer combining both my passion and interest in Software Development, Neuropsychology, and Research.
 - Additionally, I'm also learning new things through participating in open-source projects like [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork), [Terrastories](https://github.com/Terrastories/terrastories) and [Human-Essentials](https://github.com/rubyforgood/human-essentials).
 
 
